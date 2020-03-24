@@ -16,3 +16,6 @@ console.log(person.address.city);
 
 const {firstName, lastName, address: {city}} = person;
 console.log(city);
+
+person.email = 'agundran@gmail.com';
+console.log(person.email);
