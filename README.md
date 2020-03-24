@@ -1,0 +1,1 @@
+This is a second tutorial about learning JS again
